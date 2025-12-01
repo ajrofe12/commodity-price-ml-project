@@ -159,4 +159,3 @@ This work sits at the intersection of:
 
 It highlights the strengths and limitations of climate-driven commodity price models and proposes a new adaptive framework for future research.
 
----
