@@ -159,3 +159,11 @@ This work sits at the intersection of:
 
 It highlights the strengths and limitations of climate-driven commodity price models and proposes a new adaptive framework for future research.
 
+---
+
+## **Files Included**
+- [`climate_commodity_presentation.pdf`](climate_commodity_presentation.pdf) – Final project presentation
+- [`notebooks/`](notebooks/) – Jupyter notebooks for analysis and modeling
+- [`data-processed/`](data-processed/) – Cleaned and integrated datasets
+- [`organized/`](organized/) – Supporting project files
+
